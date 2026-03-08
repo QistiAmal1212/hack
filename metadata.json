@@ -1,0 +1,7 @@
+{
+  "name": " Trust Issue System 2",
+  "description": "Secure Internal Document System MVP with custom WYSIWYG editor, local persistence, and biometric face verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
